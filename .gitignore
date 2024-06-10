@@ -1,1 +1,4 @@
 env/
+__pycache__
+airflow/airflow_docker/logs
+airflow/airflow_docker/dags/__pycache__
